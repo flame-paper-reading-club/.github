@@ -1,2 +1,0 @@
-# .github
-Club's README
